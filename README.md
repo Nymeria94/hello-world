@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+I am an aerospace graduate and software enthusiast
+
